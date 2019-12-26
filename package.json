@@ -1,0 +1,26 @@
+{
+    "name": "WMS-Core",
+    "version": "0.0.1",
+    "description": "The core server segment of WMS",
+    "main": "src/index.js",
+    "module": "src/main.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/WillsMediaServer/WMS-Core.git"
+    },
+    "keywords": [],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/WillsMediaServer/WMS-Core/issues"
+    },
+    "homepage": "https://github.com/WillsMediaServer/WMS-Core#readme",
+    "dependencies": {
+        "apollo-server-express": "^2.9.14",
+        "esm": "^3.2.25",
+        "express": "^4.17.1",
+        "sequelize": "^6.0.0-beta.4"
+    }
+}
