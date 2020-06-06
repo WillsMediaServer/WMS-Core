@@ -18,7 +18,7 @@
     },
     "homepage": "https://github.com/WillsMediaServer/WMS-Core#readme",
     "dependencies": {
-        "apollo-server-express": "^2.9.14",
+        "apollo-server-express": "^2.14.2",
         "esm": "^3.2.25",
         "express": "^4.17.1",
         "sequelize": "^6.0.0-beta.4"
